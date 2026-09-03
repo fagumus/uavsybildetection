@@ -3,8 +3,7 @@
 Code for the paper:
 
 > **Source-rate representations and attention autoencoders for leakage-safe zero-day Sybil detection in UAV networks**
-> İzel Ece Aksu Demir and Fatma Gümüş, *Electronics* (MDPI), 2026.
-> DOI: [to be added on publication]
+> İzel Ece Aksu Demir and Fatma Gümüş, *Electronics* (MDPI), 2026, 15, 3966. https://doi.org/10.3390/electronics15173966
 
 This repository contains the annotated notebooks that reproduce the identity-leakage analysis, the source-rate representation, and the benign-anchored Mahalanobis and attention-autoencoder detectors, together with the ablation, cross-domain, and robustness studies, all evaluated under a source-disjoint leave-one-attack-class-out (LOACO) protocol.
 
@@ -79,12 +78,16 @@ All experiments use five random seeds (42, 1, 2, 3, 4) and report the mean and s
 
 ```bibtex
 @article{aksudemir2026sourcerate,
-  title     = {Source-rate representations and attention autoencoders for leakage-safe zero-day Sybil detection in UAV networks},
-  author    = {Aksu Demir, {\.I}zel Ece and G{\"u}m{\"u}{\c s}, Fatma},
-  journal   = {Electronics},
-  year      = {2026},
-  publisher = {MDPI},
-  doi       = {}
+    AUTHOR = {Aksu Demir, Izel Ece and Gumus, Fatma},
+    TITLE = {Source-Rate Representations and Attention Autoencoders for Leakage-Safe Zero-Day Sybil Detection in UAV Networks},
+    JOURNAL = {Electronics},
+    VOLUME = {15},
+    YEAR = {2026},
+    NUMBER = {17},
+    ARTICLE-NUMBER = {3966},
+    URL = {https://www.mdpi.com/2079-9292/15/17/3966},
+    ISSN = {2079-9292},
+    DOI = {10.3390/electronics15173966}
 }
 ```
 
